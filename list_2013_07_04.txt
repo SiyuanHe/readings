@@ -1,0 +1,18 @@
+hbase:
+
+http://labs.ericsson.com/blog/hbase-performance-tuners
+http://gbif.blogspot.com/2012/02/performance-evaluation-of-hbase.html
+http://hstack.org/hbase-performance-testing/
+
+scala/spark
+https://speakerdeck.com/rxin/the-spark-ecosystem-fast-and-expressive-big-data-analytics-in-scala-at-scala-days-2013
+http://www.slideshare.net/EvanChan2/cassandra2013-spark-talk-final
+https://amplab.cs.berkeley.edu/software/
+http://www.cs.berkeley.edu/~matei/papers/2012/nsdi_spark.pdf
+
+http://www.slideshare.net/hanborq/hadoop-hdfs-detailed-introduction
+
+
+distributed database
+
+http://www.idi.ntnu.no/~noervaag/cv.html#publications
